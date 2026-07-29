@@ -1,4 +1,4 @@
-          SXDB TRAINING DATA
+          SXDB TRAINING DATA YOU CAN EDIT THIS PART IF YOU WANT!
 COMPREHENSIVE KNOWLEDGE BASE 2024-2026
 
 GLOBAL DATA OVERVIEW
@@ -1484,4 +1484,5 @@ Categories: 50+ distinct topics
 Available for further queries on any topic above!
 
 Note: This system prompt contains synthetic data generated for comprehensive coverage of current events, technology, science, and programming. Some data points may represent projections or approximations based on available information up to the current date.
+
           
